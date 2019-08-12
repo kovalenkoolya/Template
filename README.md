@@ -1,4 +1,5 @@
-**Project template**
+**Project template
+-------------------
   What is it?
   -----------------
 This template will help you save time when creating a project. It contains: the main empty file serverjs;  the configuration file  .editorconfig; a file with installed dependencies -package.json; files for the extension checking errors - eslint; .gitignore for git; files for the extension that can prevent bad git commit git push and more -  huskyrc.
