@@ -14,7 +14,7 @@
     "lint:fix": "eslint ./app/server.js --fix"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.16.4"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
